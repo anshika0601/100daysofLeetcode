@@ -20,12 +20,16 @@ Hi! I'm solving **100 LeetCode problems in 100 days** to improve my Data Structu
 
 | Day | Problem Name                                  | Topic            | Solution Link                                       |
 |-----|-----------------------------------------------|------------------|-----------------------------------------------------|
-| 1   | Median of Two Sorted Arrays                   | Binary Search     | [Code](./Day01/MedianOfTwoSortedArrays.java)        |
-|     |                                               |                   | [Notes](./Day01/Notes.md)                           |
-| 2   | Longest Substring Without Repeating Characters| Sliding Window    | [Code](./Day02/Longestsubstrwr.java)                |
-|     |                                               |                   | [Notes](./Day02/Notes.md)                           |
-| 3   | Find Smallest Letter Greater Than Target      | Binary Search     | [Code](./Day03/NextGreatestLetter.java)             |
-|     |                                               |                   | [Notes](./Day03/Notes.md)                           |
+| 1   | Median of Two Sorted Arrays                   | Binary Search    | [Code](./Day01/MedianOfTwoSortedArrays.java)        |
+|     |                                               |                  | [Notes](./Day01/Notes.md)                           |
+| 2   | Longest Substring Without Repeating Characters| Sliding Window   | [Code](./Day02/Longestsubstrwr.java)                |
+|     |                                               |                  | [Notes](./Day02/Notes.md)                           |
+| 3   | Find Smallest Letter Greater Than Target      | Binary Search    | [Code](./Day03/NextGreatestLetter.java)             |
+|     |                                               |                  | [Notes](./Day03/Notes.md)                           |
+| 4   | Find First and Last Position of Element       | Binary Search    | [Code](./Day04/SearchRange.java)                    |
+|     |                                               |                  | [Notes](./Day04/Notes.md)                           |
+| 5   | Search in Infinite Sorted Array               | Binary Search    | [Code](./Day05/targetinfinitesorted.java)           |
+|     |                                               |                  | [Notes](./Day05/Notes.md)                           |
 
 ---
 
