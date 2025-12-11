@@ -98,9 +98,6 @@ public class search
         maze[r][c]=true;
         path[r][c]=0;
     }
-    //n queens problem
     
-}python -m venv myenv
-source myenv/bin/activate
-pip install chatterbot
     
+}
